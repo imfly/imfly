@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm imfly .
+I'm imfly, an blockchain developer.
 
 - 🍒 Developer of [DDN Blockchain](https://github.com/ddnlink/ddn)
 - 🍉 Working on <https://ddn.net> currently
 - 🍋 Also the creator of 《Node.js区块链开发2》(https://github.com/imfly/blockchain-on-nodejs), 《Node.js区块链开发》(https://github.com/imfly/bitcoin-on-nodejs)...
 - 👨‍🦳 Have a son，a lovly little boy.
-- 🍎 Mission: **Make Developer Happier**
+- 🍎 Mission: `Let knowledgeable people get rich` (**让有知识的人富起来**)
 - 📍 北京
 
 More details on [imfly.cn](https://imfly.cn/).

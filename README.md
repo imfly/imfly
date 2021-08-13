@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm imfly, an blockchain developer.
+I'm imfly, a blockchain developer.
 
 - 🍒 Developer of [DDN Blockchain](https://github.com/ddnlink/ddn)
 - 🍉 Working on <https://ddn.net> currently

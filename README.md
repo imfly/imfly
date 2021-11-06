@@ -1,5 +1,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=imfly&show_icons=true&theme=gruvbox_light&locale=cn" />
-（努力进步。。。）
 
 ### Hi there 👋
 

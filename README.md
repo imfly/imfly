@@ -26,4 +26,4 @@ I'm imfly, a blockchain developer.
 - 🍎 Mission: `Let knowledgeable people get rich` (**让有知识的人富起来**)
 - 📍 北京
 
-More details on [imfly.cn](https://imfly.cn/).
+<!-- More details on [imfly.cn](https://imfly.cn/). -->
